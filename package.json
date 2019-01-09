@@ -1,5 +1,5 @@
 {
-  "name": "fed-vue-spa-temp",
+  "name": "{{projectName}}",
   "version": "1.0.0",
   "description": "vue template project for fed-cli",
   "private": true,
